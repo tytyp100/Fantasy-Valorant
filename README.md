@@ -1,2 +1,10 @@
-# Fantasy-Valorant
-Similar to fantasy leagues in other sports, this website will allow you and others to play enjoy your very own fantasy league with Valorant players and matches!
+## run dev server
+
+`npm run dev`
+
+# production
+
+`npm run build` then `npm run start`
+
+General Info
+id":"2347","name":"Champions Tour 2025: Americas Stage 1"
